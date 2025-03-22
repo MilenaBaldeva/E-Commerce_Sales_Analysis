@@ -129,7 +129,9 @@ The project includes **two interactive Tableau dashboards**:
 
 ## 📌 Author
 **Milena Baldeva**  
-📧 [Your Email] *(Optional)*  
-🔗 [LinkedIn Profile] *(Optional)*  
+📍 Easton, PA, USA  
+📧 [milena.baldeva@gmail.com](mailto:milena.baldeva@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/milena-baldeva-051b01100/)  
+
 
 Feel free to contribute, provide feedback, or explore the insights for your own business strategies! 🚀
