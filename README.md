@@ -1,4 +1,7 @@
-<img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Slides.jpg" width="600px" />
+<p align="center">
+  <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Slides.jpg" width="600px" />
+</p>
+
 
 # E-Commerce Sales Performance and Forecast
 
