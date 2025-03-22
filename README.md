@@ -1,3 +1,5 @@
+<img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Slides.jpg" width="600px" />
+
 # E-Commerce Sales Performance and Forecast
 
 ## 📌 Overview
@@ -108,6 +110,7 @@ This project simulates a real-world data analytics case where an e-commerce comp
 ## 🚀 Explore the Dashboard
 
 <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard1.jpg" width="600px" />
+<img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard2.jpg" width="600px" />
 
 🔗 [Click Here to View the Tableau Dashboard](https://public.tableau.com/views/Sales_Analysis_17423026047060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
