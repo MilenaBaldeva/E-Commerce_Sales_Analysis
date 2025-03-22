@@ -11,7 +11,7 @@ This project simulates a real-world data analytics case where an e-commerce comp
 5. [Project Workflow](#-project-workflow)
 6. [Project Structure](#-project-structure)
 7. [Explore the Dashboard](#-explore-the-dashboard)
-8. [Tools & Technologies Used](#-tools--technologies-used)
+8. [Tools and Technologies Used](#-tools-and-technologies-used)
 9. [Author](#-author)
 
 ## 📊 Key Insights
@@ -106,7 +106,6 @@ This project simulates a real-world data analytics case where an e-commerce comp
 - **📄 Reports:** Insights and business recommendations in **Google Slides**.
 
 ## 🚀 Explore the Dashboard
-🔗 **[Click Here to View the Tableau Dashboard](#)** *(Replace with actual link once published)*
 
 🔗 [Click Here to View the Tableau Dashboard](https://public.tableau.com/views/Sales_Analysis_17423026047060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
@@ -121,7 +120,7 @@ The project includes **two interactive Tableau dashboards**:
 
 ---
 
-### 🛠️ Tools & Technologies Used
+### 🛠️ Tools and Technologies Used
 - **Python** (pandas, NumPy, scikit-learn, Prophet)
 - **Google Colab** (Code execution & modeling)
 - **Tableau** (Interactive Dashboards)
