@@ -4,9 +4,6 @@
 
 <h1 align="center">E-Commerce Sales Performance and Forecast</h1>
 
-
-# E-Commerce Sales Performance and Forecast
-
 ## 📌 Overview
 This project simulates a real-world data analytics case where an e-commerce company aims to improve **customer retention** by analyzing user behavior and sales data. The analysis focuses on **data cleaning, exploratory analysis, customer segmentation, and sales forecasting**, culminating in a **Tableau dashboard** and a **business recommendations report**.
 
