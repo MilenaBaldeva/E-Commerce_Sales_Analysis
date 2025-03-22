@@ -16,7 +16,8 @@ This project simulates a real-world data analytics case where an e-commerce comp
 6. [Project Structure](#-project-structure)
 7. [Explore the Dashboard](#-explore-the-dashboard)
 8. [Tools and Technologies Used](#-tools-and-technologies-used)
-9. [Author](#-author)
+9. [Data Source](#-data-source)
+10. [Author](#-author)
 
 ## 📊 Key Insights
 - **Total Revenue:** £9.7M (2010-2011)
@@ -139,7 +140,7 @@ The project includes **two interactive Tableau dashboards**:
 
 ---
 
-## Data Source
+### 📊 Data Source
 The data used in this analysis is from [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail), which can be accessed at the provided link.
 
 ## 📌 Author
