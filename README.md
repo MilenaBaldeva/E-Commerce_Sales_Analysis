@@ -137,6 +137,11 @@ The project includes **two interactive Tableau dashboards**:
 - **Google Slides** (Business Recommendations Report)
 - **GitHub** (Version Control)
 
+---
+
+## Data Source
+The data used in this analysis is from [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail), which can be accessed at the provided link.
+
 ## 📌 Author
 **Milena Baldeva**  
 📍 Easton, PA, USA  
