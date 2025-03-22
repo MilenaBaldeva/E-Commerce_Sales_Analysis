@@ -108,6 +108,17 @@ This project simulates a real-world data analytics case where an e-commerce comp
 ## 🚀 Explore the Dashboard
 🔗 **[Click Here to View the Tableau Dashboard](#)** *(Replace with actual link once published)*
 
+🔗 [Click Here to View the Tableau Dashboard](https://public.tableau.com/views/Sales_Analysis_17423026047060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+The project includes **two interactive Tableau dashboards**:  
+- **Sales Performance Dashboard** – Analyzes total sales, profit, and quantity sold, with filters for deeper insights.  
+- **Sales Forecast & Insights Dashboard** – Displays future sales trends.
+
+### 🔄 Navigation Features:  
+- **Navigation buttons** allow seamless switching between dashboards.  
+- **Reset All Filters** button available on the first dashboard.  
+- **Insights & Recommendations Button** on the second dashboard opens the final business recommendations presentation.  
+
 ---
 
 ### 🛠️ Tools & Technologies Used
