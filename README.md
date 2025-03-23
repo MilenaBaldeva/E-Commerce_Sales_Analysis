@@ -113,8 +113,8 @@ This project simulates a real-world data analytics case where an e-commerce comp
 ## 🚀 Explore the Dashboard
 
 <p align="center">
-  <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard1.jpg" width="500px" />
-  <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard2.jpg" width="500px" />
+  <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard1.jpg" width="400px" />
+  <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard2.jpg" width="400px" />
 </p>
 
 
