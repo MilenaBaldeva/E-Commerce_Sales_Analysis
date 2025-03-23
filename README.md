@@ -14,7 +14,7 @@ This project simulates a real-world data analytics case where an e-commerce comp
 4. [Business Recommendations](#-business-recommendations)
 5. [Project Workflow](#-project-workflow)
 6. [Project Structure](#-project-structure)
-7. [Explore the Dashboard](#-explore-the-dashboard)
+7. [Explore the Dashboard and the Report](#-explore-the-dashboard-and-the-report)
 8. [Tools and Technologies Used](#-tools-and-technologies-used)
 9. [Data Source](#-data-source)
 10. [Author](#-author)
@@ -110,7 +110,7 @@ This project simulates a real-world data analytics case where an e-commerce comp
   - **Sales Forecasting**
 - **📄 Reports:** Insights and business recommendations in **Google Slides**.
 
-## 🚀 Explore the Dashboard and the Presentaion
+## 🚀 Explore the Dashboard and the Report
 
 <p align="center">
   <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard1.jpg" width="400px" />
