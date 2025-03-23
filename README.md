@@ -110,7 +110,7 @@ This project simulates a real-world data analytics case where an e-commerce comp
   - **Sales Forecasting**
 - **📄 Reports:** Insights and business recommendations in **Google Slides**.
 
-## 🚀 Explore the Dashboard
+## 🚀 Explore the Dashboard and the Presentaion
 
 <p align="center">
   <img src="https://github.com/MilenaBaldeva/Codes/blob/32a2a570c3ded66f5ff4c8a76ab741324186a8f8/Dashboard1.jpg" width="400px" />
@@ -127,7 +127,9 @@ The project includes **two interactive Tableau dashboards**:
 ### 🔄 Navigation Features:  
 - **Navigation buttons** allow seamless switching between dashboards.  
 - **Reset All Filters** button available on the first dashboard.  
-- **Insights & Recommendations Button** on the second dashboard opens the final business recommendations presentation.  
+- **Insights & Recommendations Button** on the second dashboard opens the final business recommendations presentation.
+
+  📄 [Click Here to View the Full Insights & Recommendations Report](https://docs.google.com/presentation/d/1kUNrs8M3zGCLMPObR5IAs6XRNsZrOVJVxaW-hXv_8sY/present?slide=id.g34471732842_0_0)
 
 ---
 
